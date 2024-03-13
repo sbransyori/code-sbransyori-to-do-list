@@ -1,0 +1,35 @@
+{
+  "name": "code-sbransyori-to-do-list",
+  "version": "1.0.5",
+  "description": "todolist project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbransyori/code-sbransyori-to-do-list"
+  },
+  "keywords": [
+    "todolist",
+    "sbransyori",
+    "beta"
+  ],
+  "author": "sbransyori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbransyori/code-sbransyori-to-do-list/issues"
+  },
+  "homepage": "https://github.com/sbransyori/code-sbransyori-to-do-list#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  },
+  "dependencies": {
+    "beta-project": "^1.0.3",
+    "code-dheryl": "^1.0.5",
+    "code-dheryldz-notepad": "^1.0.0",
+    "code-mhammadiksan21-notepad": "^1.0.0",
+    "code-solana-checker": "^1.0.0",
+    "tumpah-dao-web3": "^1.0.2"
+  }
+}
